@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A Chemical Student interested in CS
-.vercel.app/api?username=Chr0n0stasis)]()
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=GitHub用户名)]()
