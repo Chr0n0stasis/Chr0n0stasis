@@ -18,4 +18,3 @@ A Chemistry Student interested in CS
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Chr0n0stasis)]()
 
-![genshin](https://ys.himiku.com/rand/276247424.png)
