@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 A Chemistry Student interested in CS
 
-![maimai-card](https://raw.githubusercontent.com/Chr0n0stasis/maimai-profile-card/main/maimai-card.svg)
+![maimai-card](https://raw.githubusercontent.com/Chr0n0stasis/github-maimai-dx-cn-scorecard/main/maimai-card.svg)
 
 
