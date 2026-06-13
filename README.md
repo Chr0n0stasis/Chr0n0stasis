@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 A Chemistry Student interested in CS
 
-![maimai-card](2a3c62f83a528ef1bb309dd86e9be382.jpg)
+<img width="1482" height="260" alt="image" src="https://github.com/user-attachments/assets/f458a902-3354-487e-aa23-025cb121d779" />
+
 
